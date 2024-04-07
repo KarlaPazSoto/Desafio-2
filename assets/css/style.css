@@ -1,0 +1,110 @@
+#inicio{
+    color: white;
+    background-image: url(../imgs/fondo-lanas.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+h1{
+    font-size: 5rem;
+    padding-left: 5%;
+    padding-top: 20%;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img{
+    width: 90%;
+}
+h2{
+    font-size: 2rem;
+}
+p{
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    height: 50px;
+    width: 20%;
+    margin-right: -4px;
+    background-color: #000;
+    color: #fff;
+    border-color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.boton{
+    text-decoration: none;
+}
+.contenedorUno{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: white;
+    background-color: #176143;
+}
+.contenedorDos{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: white;
+    background-color: #818D88;
+}
+.contenedorTres{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: white;
+    background-color: #68844C;
+}
+.contenedorCuatro{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: white;
+    background-color: #844C6F;
+}
+.contenedorCinco{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: white;
+    background-color: #84674C;
+}
+.claseUno{
+    display: inline-block;
+    width: 33.33%;
+}
+.claseDos{
+    display: inline-block;
+    width: 33.33%;
+}
+.claseTres{
+    display: inline-block;
+    width: 33.33%;
+}
+.claseCuatro{
+    display: inline-block;
+    width: 33.33%;
+}
+.claseCinco{
+    display: inline-block;
+    width: 33.33%;
+}
+.botonInicio{
+    text-align: center;
+    text-decoration: none;
+    background-color: #000;
+}
+h4{
+    text-align: center;
+    color: white;
+    background-color: #000;
+    margin: 0px;
+    padding: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+}
